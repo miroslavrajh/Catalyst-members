@@ -8,3 +8,4 @@ Who are Catlyst members?
 - [Nadim Karam](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/K/Nadim-Karam.md)
 - [Felix Weber](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/W/Felix-Weber.md)
 - [Stephen Whitenstall](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/W/Stephen-Whitenstall.md)
+- [Juliane Montag](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/M/Juliane-Montag.md)
