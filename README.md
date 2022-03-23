@@ -1,6 +1,7 @@
 # Catalyst-members
 Who are Catlyst members?
 - [Nori Nishigaya](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/N/Nori-Nishigaya.md)
+- [Jonathan Postnikoff](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/P/Jonathan-Postnikoff.md)
 - [Peter Wolcott](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/W/Peter-Wolcott.md)
 - [Andre Diamond](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/D/Andre-Diamond.md)
 - [Miroslav Rajh](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/R/Miroslav-Rajh.md)
