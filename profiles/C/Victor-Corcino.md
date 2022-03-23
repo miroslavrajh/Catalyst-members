@@ -4,4 +4,10 @@
 ### Artificial Intelligence and Machine Learning
 ### Plutus and Prism Pioneer 
 ### COO Loxe Inc.
+### Energy Industry Engineer for 6 years
+### Gimbalabs PPBL Team Member
+### Member of the 1st Catalyst Circle as Community Advisors representative
+### Catalyst Veteran Community Advisor and Proposal Mentor
+### BSc Chemical Engineering and MSc Chemical Engineering and Software Development
+### PhD candidate, researching the field of Machine Learning applied to Computational Fluid Dynamics
 
