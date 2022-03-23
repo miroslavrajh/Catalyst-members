@@ -1,5 +1,5 @@
 # Catalyst-members
-Who are Catlyst members?
+Who are Catalyst members?
 - [Nori Nishigaya](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/N/Nori-Nishigaya.md)
 - [Jonathan Postnikoff](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/P/Jonathan-Postnikoff.md)
 - [Peter Wolcott](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/W/Peter-Wolcott.md)
