@@ -22,3 +22,11 @@ Who are Catalyst Circle members?
 - [Thorsten Pottebaum](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/P/Thorsten-Pottebaum.md)
 - [Raymond Mata](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/M/Raymond-Mata.md)
 - [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
+- [Joey Chessher](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/C/Joey-Chessher.md)
+- [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
+- [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
+- [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
+- [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
+- [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
+- [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
+
