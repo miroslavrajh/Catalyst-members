@@ -19,5 +19,5 @@ Who are Catalyst Circle members?
 - [Jo Allum](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/A/Jo-Allum.md)
 - [George Lovegrove](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/L/George-Lovegrove.md)
 - [Ron Hill](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/H/Ron-Hill.md)
-- [Phil Khoo](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/K/Phil-Khoo.md)
+- [Thorsten Pottebaum](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/P/Thorsten-Pottebaum.md)
 - [Phil Khoo](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/K/Phil-Khoo.md)
