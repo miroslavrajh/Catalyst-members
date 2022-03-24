@@ -21,3 +21,4 @@ Who are Catalyst Circle members?
 - [Ron Hill](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/H/Ron-Hill.md)
 - [Thorsten Pottebaum](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/P/Thorsten-Pottebaum.md)
 - [Raymond Mata](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/M/Raymond-Mata.md)
+- [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
