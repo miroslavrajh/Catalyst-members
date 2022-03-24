@@ -15,7 +15,7 @@ Who are Catalyst Circle members?
 - [Matthias Sieber](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/S/Matthias-Sieber.md)
 - [Vanessa Cardui](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/C/Vanessa-Cardui.md)
 - [Phil Khoo](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/K/Phil-Khoo.md)
-- [Phil Khoo](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/K/Phil-Khoo.md)
+- [Tevo Saks](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/S/Tevo-Saks.md)
 - [Phil Khoo](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/K/Phil-Khoo.md)
 - [Phil Khoo](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/K/Phil-Khoo.md)
 - [Phil Khoo](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/K/Phil-Khoo.md)
