@@ -11,3 +11,7 @@ Who are Catalyst Circle members?
 - [Juliane Montag](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/M/Juliane-Montag.md)
 - [Victor Corcino](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/C/Victor-Corcino.md)
 - [Allison Fromm](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/F/Allison-Fromm.md)
+- [Kenric Nelson](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/N/Kenric-Nelson.md)
+- [Allison Fromm](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/F/Allison-Fromm.md)
+- [Allison Fromm](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/F/Allison-Fromm.md)
+- [Allison Fromm](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/F/Allison-Fromm.md)
