@@ -25,7 +25,7 @@ Who are Catalyst Circle members?
 - [Joey Chessher](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/C/Joey-Chessher.md)
 - [Rhys Morgan](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/M/Rhys-Morgan.md)
 - [Mercy A](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/A/Mercy-A.md)
-- [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
+- [Dimitri Fernando](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/F/Dimitri-Fernando.md)
 - [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
 - [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
 - [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
