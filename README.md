@@ -10,3 +10,4 @@ Who are Catalyst Circle members?
 - [Stephen Whitenstall](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/W/Stephen-Whitenstall.md)
 - [Juliane Montag](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/M/Juliane-Montag.md)
 - [Victor Corcino](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/C/Victor-Corcino.md)
+- [Allison Fromm](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/F/Allison-Fromm.md)
