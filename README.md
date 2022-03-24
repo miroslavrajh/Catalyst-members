@@ -14,4 +14,4 @@ Who are Catalyst Circle members?
 - [Kenric Nelson](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/N/Kenric-Nelson.md)
 - [Matthias Sieber](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/S/Matthias-Sieber.md)
 - [Vanessa Cardui](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/C/Vanessa-Cardui.md)
-- [Allison Fromm](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/F/Allison-Fromm.md)
+- [Phil Khoo](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/K/Phil-Khoo.md)
