@@ -18,6 +18,6 @@ Who are Catalyst Circle members?
 - [Tevo Saks](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/S/Tevo-Saks.md)
 - [Jo Allum](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/A/Jo-Allum.md)
 - [George Lovegrove](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/L/George-Lovegrove.md)
-- [Phil Khoo](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/K/Phil-Khoo.md)
+- [Ron Hill](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/H/Ron-Hill.md)
 - [Phil Khoo](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/K/Phil-Khoo.md)
 - [Phil Khoo](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/K/Phil-Khoo.md)
