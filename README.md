@@ -27,6 +27,6 @@ Who are Catalyst Circle members?
 - [Mercy A](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/A/Mercy-A.md)
 - [Dimitri Fernando](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/F/Dimitri-Fernando.md)
 - [Nadia Hopkins](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/H/Nadia-Hopkins.md)
-- [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
+- [Lauris Stiglics](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/S/Lauris-Stiglics.md)
 - [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
 
