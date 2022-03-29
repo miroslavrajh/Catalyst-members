@@ -1,4 +1,4 @@
-
+![Kenric](https://user-images.githubusercontent.com/73400593/160541818-6235da06-7f6b-4c64-9b77-58c08eea7e6c.JPEG)
 
 ### Kenric Nelson, Ph.D.
 ### Scientist Engineer  Educator * Executive | Photrek
