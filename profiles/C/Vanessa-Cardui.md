@@ -1,4 +1,4 @@
-
+![Vanessa](https://user-images.githubusercontent.com/73400593/160540398-aeaf4c91-25e4-4d59-ba0b-9f3f01d85a8f.JPEG)
 
 ### Vanessa Cardui (@CallyFromAuron) is a community engagement professional with a background in oral history and archiving. 
 ### She has 20+ years' experience of accurately transcribing video and audio material for historical record, and of using transcription and summary to make video material more accessible and discoverable for communities. 
