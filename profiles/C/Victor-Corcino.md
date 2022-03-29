@@ -1,3 +1,5 @@
+![Victor Corcino](https://user-images.githubusercontent.com/73400593/160540981-5ab14533-6f50-4bae-bc9a-54ebd438424c.JPEG)
+
 ### Victor is Co-creator of AIM Community 
 ### Tools (CA/vCA Tools, Voter Tool)
 ### Specialization in Data Science
