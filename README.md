@@ -29,4 +29,8 @@ Who are Catalyst Circle members?
 - [Nadia Hopkins](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/H/Nadia-Hopkins.md)
 - [Lauris Stiglics](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/S/Lauris-Stiglics.md)
 - [Michael Yagi](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/Y/Michael-Yagi.md)
+- [Natalie Attieh](https://github.com/miroslavrajh/Catalyst-members/blob/main/profiles/A/Natalie-Attieh.md)
+
+
+
 
